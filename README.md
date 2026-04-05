@@ -71,7 +71,7 @@ param_grid = {
 
 Resultado: 
 
-- **Accuracy: 96.67%%**
+- **Accuracy: 96.67%**
 - Error: falso positivo
 
 ---
